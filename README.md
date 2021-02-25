@@ -1,4 +1,4 @@
-# NLW-trilha_React
+# NLW Trilha React com Next.js :rocket:
 
 <h2>Primeiro dia  do NLW da Rocketseat. </h2>
 
@@ -26,3 +26,12 @@
 - Utilização de createContext e useContext
 - Aprendi tipagem dos dados utilizados 
 - Construção da lógica para o funcionamento da aplicação 
+
+
+<h2>Quarto dia  do NLW da Rocketseat. </h2>
+
+<h3>O que fiz e  aprendi:</h3>
+
+- Mais utilização de Context API
+- Mais tipagem de dados
+- Aprendi sobre notificação web (pedido ao usuário e execuçao) e tocando audio na notificação
