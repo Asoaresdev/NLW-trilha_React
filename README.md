@@ -25,4 +25,4 @@
 
 - Utilização de createContext e useContext
 - Aprendi tipagem dos dados utilizados 
-- Cosntrução da lógica para o funcionamento da aplicação 
+- Construção da lógica para o funcionamento da aplicação 
