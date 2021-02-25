@@ -18,3 +18,11 @@
 - Conheci o css-module
 - Codificação da página do perfil com contador
 - Uso de useState e useEffect 
+
+<h2>Terceiro dia  do NLW da Rocketseat. </h2>
+
+<h3>O que fiz e  aprendi:</h3>
+
+- Utilização de createContext e useContext
+- Aprendi tipagem dos dados utilizados 
+- Cosntrução da lógica para o funcionamento da aplicação 
