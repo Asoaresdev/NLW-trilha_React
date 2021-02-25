@@ -34,4 +34,4 @@
 
 - Mais utilização de Context API
 - Mais tipagem de dados
-- Aprendi sobre notificação web (pedido ao usuário e execuçao) e tocando audio na notificação
+- Aprendi sobre notificação web (pedido ao usuário e execução) e tocar áudio na notificação
