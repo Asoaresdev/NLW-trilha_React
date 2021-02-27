@@ -37,3 +37,14 @@
 - Mais utilização de Context API
 - Mais tipagem de dados
 - Aprendi sobre notificação web (pedido ao usuário e execução) e tocar áudio na notificação
+
+<h2>Quinto dia  do NLW da Rocketseat. </h2>
+
+<h3>O que fiz e  aprendi:</h3>
+
+- Funcionalidades restantes
+- Deploy na Vercel
+
+
+<h2>Link do projeto </h2>
+https://nlw-trilha-react-movedev.vercel.app/
