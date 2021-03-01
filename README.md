@@ -6,7 +6,7 @@
 
 
 <h2>Objetivo</h2>
-Objetivo da aplicação,criada durante o NLW#4, é um contador regressivo, no estilo pomorodoro onde quando o tempo encerra uma atividade é sugerida para ser realizada.
+Objetivo da aplicação, criada durante o NLW#4, é um contador regressivo, no estilo pomodoro.Quando o tempo encerra uma atividade é sugerida para ser realizada.
 
 
 <img src="https://github.com/Asoaresdev/NLW-trilha_React/blob/main/data/Captura%20de%20tela%202021-03-01%20100322.png" width="500">
