@@ -67,7 +67,7 @@ Objetivo da aplicação, criada durante o NLW#4, é um contador regressivo, no e
 - Deploy na Vercel
 
 
-## Como rodar a apliação :computer:
+## Como rodar a aplicação :computer:
 No terminal, clone o projeto:
 ```
 git clone https://github.com/Asoaresdev/NLW-trilha_React.git
@@ -84,6 +84,6 @@ Execute a aplicação
 ```
 npm run start
 ```
-
+Abrir o navegador no localhost:3000
 <h2>Link do projeto </h2>
 https://nlw-trilha-react-movedev.vercel.app/
