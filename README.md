@@ -2,6 +2,9 @@
 
 # ⚛️Trilha React com Next.js :rocket:
 
+<img src="https://img.shields.io/static/v1?label=next.js&message=framework&color=blue&style=for-the-badge&logo=NEXT.js"/> <img src="https://img.shields.io/static/v1?label=vercel&message=deploy&color=blue&style=for-the-badge&logo=VERCEL"/>
+
+
 <h2>Primeiro dia  do NLW da Rocketseat. </h2>
 
 <h3>O que aprendi:</h3>
