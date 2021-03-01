@@ -1,11 +1,29 @@
-<h2> NLW#4 </h2>
+<h1> NLW#4 </h1>
 
 # ⚛️Trilha React com Next.js :rocket:
 
 <img src="https://img.shields.io/static/v1?label=next.js&message=framework&color=blue&style=for-the-badge&logo=NEXT.js"/> <img src="https://img.shields.io/static/v1?label=vercel&message=deploy&color=blue&style=for-the-badge&logo=VERCEL"/>
 
 
-<h2>Primeiro dia  do NLW da Rocketseat. </h2>
+<h2>Objetivo</h2>
+Objetivo da aplicação,criada durante o NLW#4, é um contador regressivo, no estilo pomorodoro onde quando o tempo encerra uma atividade é sugerida para ser realizada.
+
+
+<img src="https://github.com/Asoaresdev/NLW-trilha_React/blob/main/data/Captura%20de%20tela%202021-03-01%20100322.png" width="500">
+
+### Como foi uma jornada de aprendizado, irei resumir o dia-a-dia
+
+:white_check_mark: [Primeiro dia](#primeiro-dia)
+
+:white_check_mark: [Segundo dia](#segundo-dia)
+
+:white_check_mark: [Terceiro dia](#terceiro-dia)
+
+:white_check_mark: [Quarto dia](#quarto-dia)
+
+:white_check_mark: [Quinto dia](#quinto-dia)
+
+## Primeiro dia
 
 <h3>O que aprendi:</h3>
 
@@ -14,7 +32,7 @@
 - Uso de typescript
 - Início da codificação do projeto
 
-<h2>Segundo dia  do NLW da Rocketseat. </h2>
+## Segundo dia
 
 <h3>O que fiz e  aprendi:</h3>
 
@@ -24,7 +42,7 @@
 - Codificação da página do perfil com contador
 - Uso de useState e useEffect 
 
-<h2>Terceiro dia  do NLW da Rocketseat. </h2>
+## Terceiro dia  
 
 <h3>O que fiz e  aprendi:</h3>
 
@@ -33,7 +51,7 @@
 - Construção da lógica para o funcionamento da aplicação 
 
 
-<h2>Quarto dia  do NLW da Rocketseat. </h2>
+## Quarto dia
 
 <h3>O que fiz e  aprendi:</h3>
 
@@ -41,13 +59,31 @@
 - Mais tipagem de dados
 - Aprendi sobre notificação web (pedido ao usuário e execução) e tocar áudio na notificação
 
-<h2>Quinto dia  do NLW da Rocketseat. </h2>
+## Quinto dia
 
 <h3>O que fiz e  aprendi:</h3>
 
 - Funcionalidades restantes
 - Deploy na Vercel
 
+
+## Como rodar a apliação :computer:
+No terminal, clone o projeto:
+```
+git clone https://github.com/Asoaresdev/NLW-trilha_React.git
+```
+Entre na pasta do arquivo
+```
+cd NLW-trilha_React
+```
+Instale as dependências
+```
+npm install
+```
+Execute a aplicação
+```
+npm run start
+```
 
 <h2>Link do projeto </h2>
 https://nlw-trilha-react-movedev.vercel.app/
