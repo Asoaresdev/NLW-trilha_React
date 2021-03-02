@@ -2,7 +2,7 @@
 
 # ⚛️Trilha React com Next.js :rocket:
 
-<img src="https://img.shields.io/static/v1?label=next.js&message=framework&color=blue&style=for-the-badge&logo=NEXT.js"/> <img src="https://img.shields.io/static/v1?label=vercel&message=deploy&color=blue&style=for-the-badge&logo=VERCEL"/>
+<img src="https://img.shields.io/static/v1?label=next.js&message=framework&color=blue&style=plastic&logo=NEXT.js"/> <img src="https://img.shields.io/static/v1?label=vercel&message=deploy&color=blue&style=plastic&logo=VERCEL"/>
 
 
 <h2>Objetivo</h2>
