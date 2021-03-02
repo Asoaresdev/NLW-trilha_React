@@ -1,8 +1,6 @@
 # ⚛️NLW#4 - Trilha React com Next.js :rocket:
 
-<img src="https://img.shields.io/static/v1?label=next.js&message=framework&color=blue&style=plastic&logo=NEXT.js"/> <img src="https://img.shields.io/static/v1?label=vercel&message=deploy&color=blue&style=plastic&logo=VERCEL"/> 
-
-
+<img src="https://img.shields.io/static/v1?label=next.js&message=framework&color=blue&style=plastic&logo=NEXT.js"/> <img src="https://img.shields.io/static/v1?label=vercel&message=deploy&color=blue&style=plastic&logo=VERCEL"/> [![GitHub license](https://img.shields.io/github/license/Asoaresdev/NLW-trilha_React?color=blue&style=plastic)](https://github.com/Asoaresdev/NLW-trilha_React)
 
 #### Status do Projeto: Em desenvolvimento :warning:
 
