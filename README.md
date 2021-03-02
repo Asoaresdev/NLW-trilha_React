@@ -1,8 +1,10 @@
-<h1> NLW#4 </h1>
+# ⚛️NLW#4 - Trilha React com Next.js :rocket:
 
-# ⚛️Trilha React com Next.js :rocket:
+<img src="https://img.shields.io/static/v1?label=next.js&message=framework&color=blue&style=plastic&logo=NEXT.js"/> <img src="https://img.shields.io/static/v1?label=vercel&message=deploy&color=blue&style=plastic&logo=VERCEL"/> 
 
-<img src="https://img.shields.io/static/v1?label=next.js&message=framework&color=blue&style=plastic&logo=NEXT.js"/> <img src="https://img.shields.io/static/v1?label=vercel&message=deploy&color=blue&style=plastic&logo=VERCEL"/>
+
+
+#### Status do Projeto: Em desenvolvimento :warning:
 
 
 <h2>Objetivo</h2>
@@ -85,5 +87,11 @@ Execute a aplicação
 npm run start
 ```
 Abrir o navegador no localhost:3000
+
+
 <h2>Link do projeto </h2>
+
 https://nlw-trilha-react-movedev.vercel.app/
+
+
+
